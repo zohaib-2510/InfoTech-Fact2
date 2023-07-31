@@ -229,3 +229,7 @@ font-family: 'Great Vibes', cursive;
 font-family: 'Lumanosimo', cursive;
 
 }
+.nav-second a {
+    color: #fff;
+    text-decoration: none;
+}
